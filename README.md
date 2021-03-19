@@ -1,1 +1,1 @@
-# schoool-test
+# school-test
