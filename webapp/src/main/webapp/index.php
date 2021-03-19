@@ -86,7 +86,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 	<div class="col-md-6 w3l_about_bottom_right one">
 		<div class="abt-w3l">
 			<div class="header-w3l">
-				<h2>Registration Form</h2>
+				<h2>Admission Form</h2>
 				<h4>Enter the Following Details</h4>
 				<form action="#" method="post" class="mod2">
 					<div class="col-md-6 col-xs-6 w3l-left-mk">
